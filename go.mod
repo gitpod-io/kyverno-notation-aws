@@ -271,3 +271,5 @@ require (
 )
 
 replace github.com/jmespath/go-jmespath => github.com/kyverno/go-jmespath v0.4.1-0.20230204162932-3ee946b9433d
+
+replace github.com/nirmata/kyverno-notation-verifier => github.com/gitpod-io/kyverno-notation-verifier v0.0.0-20240312084935-1da154395cf1
